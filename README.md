@@ -40,7 +40,7 @@ Um loop é utilizado para criar elementos `div` para cada emoji e adicioná-los 
 
 A função `handleClick` é responsável por gerenciar a interação do usuário ao clicar nas cartas. Ela verifica se menos de duas cartas estão abertas e, se forem abertas, chama a função `checkMatch` após um atraso. ⏳
 
-4. Verificação de Pares 👯‍♂️
+### 4. Verificação de Pares 👯‍♂️
 
 A função `checkMatch` é chamada para verificar se as duas cartas abertas são iguais. Se forem, elas recebem uma classe que as destaca; se não forem, a classe que indica que estão abertas é removida. ✅❌
 
