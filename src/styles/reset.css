@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    outline: none;
+    box-sizing: border-box;
+    font-family: monospace;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.reset:focus
+{
+    color: blueviolet;
+    background-color: rgb(0, 20, 49);
+}
